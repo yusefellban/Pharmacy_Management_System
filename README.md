@@ -1,5 +1,4 @@
 # Pharmacy_Management_System
-
 Pharmacy system with Goees 
 project includes :
 1- JDBC (Connector j) driver that make a connection between Java program and My-SQL database
